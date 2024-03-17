@@ -1,0 +1,52 @@
+ 
+    .jumbotron {
+   background: url('https://images.unsplash.com/photo-1501618669935-18b6ecb13d6d?q=80&w=1449&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D') no-repeat center center;
+   background-size: cover;
+   color: #fff;
+   padding: 100px 0;
+   text-align: center;
+ }
+    /* Стили для контейнеров */
+    .container {
+max-width: 700px; /* Устанавливаем максимальную ширину контейнера */
+margin: 0 auto; /* Центрируем контейнер по горизонтали */
+}
+
+    .services {
+ background-color: #f8f9fa; /* Цвет фона */
+ padding: 50px 0; /* Внутренние отступы */
+ }
+
+ /* Стили для элемента услуги */
+ .service-item {
+ background-color: #fff; /* Цвет фона элемента */
+ border-radius: 12px; /* Радиус скругления углов */
+ padding: 30px; /* Внутренние отступы */
+ margin-bottom: 30px; /* Отступ снизу */
+ box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1); /* Тень */
+ }
+
+ /* Стили для иконки */
+ .service-item i {
+ font-size: 36px; /* Размер шрифта */
+ color: #32cc8c; /* Цвет иконки */
+ }
+
+ /* Стили для заголовка */
+ .service-item h4 {
+ font-size: 24px; /* Размер шрифта */
+ color: #343a40; /* Цвет текста */
+ margin-top: 20px; /* Отступ сверху */
+ }
+
+ /* Стили для описания */
+ .service-item p {
+ font-size: 18px; /* Размер шрифта */
+ color: #6c757d; /* Цвет текста */
+ margin-top: 20px; /* Отступ сверху */
+ }
+ h1 {
+         font-family: Montserrat; /* Измененный шрифт */
+         color: rgb(255, 255, 255); /* Черный цвет текста */
+     }
+ 
